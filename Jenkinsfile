@@ -1,9 +1,9 @@
 pipeline {
-		agent any
+		//agent any
 		//if you want to set trigger 
 		//riggers {
 		//	pollSCM "* * * * *"
-        }
+        
 		stages {
 			stage('checkout SCM '){
 				steps {
