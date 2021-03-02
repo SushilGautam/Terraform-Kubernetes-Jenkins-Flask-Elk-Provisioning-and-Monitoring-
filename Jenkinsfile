@@ -1,5 +1,5 @@
 pipeline {
-		//agent any
+		agent any
 		//if you want to set trigger 
 		//riggers {
 		//	pollSCM "* * * * *"
@@ -23,4 +23,4 @@ pipeline {
 				}
 			}
 		}
-	}
+}
