@@ -12,10 +12,8 @@ terraform {
 }
 
 provider "kubernetes" {
-	load_config_file = false
 	config_path = "/home/caption/.kube/config"
 }
-
 
 provider "docker" {
   host = "tcp://localhost:2376"
