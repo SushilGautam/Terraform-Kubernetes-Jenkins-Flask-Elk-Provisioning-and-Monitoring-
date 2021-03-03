@@ -12,7 +12,7 @@ terraform {
 }
 
 provider "kubernetes" {
-	config_path = "/home/caption/.kube/config"
+	config_path = "~/.kube/config"
 }
 
 provider "docker" {
