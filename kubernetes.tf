@@ -41,7 +41,7 @@ resource "kubernetes_deployment" "flask" {
       }
       spec {
         container {
-          image = "sushilgautam/flask-final-app:latest"
+          image = "sushilgautam/final_flask_image:latest"
           name  = "myflaskapp"
 
           port {
