@@ -45,7 +45,7 @@ resource "kubernetes_deployment" "flask" {
           name  = "myflaskapp"
 
           port {
-            container_port = 8080
+            container_port = 80
           }
         }
       }
