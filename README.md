@@ -1,6 +1,7 @@
 # Project Overview
 This is a complete Project Developing, Integrating, Deploying, Provisioning and Monitoring cloud infrastructures that utilizes Terraform-Kubernetes-Jenkins-Docker-Flask-Elk
 Presentation of this project in slide can be viewed from here- https://docs.google.com/presentation/d/1ECK27qFQIrHnoWwvMc2SCL1yPcKMe1nc6TX7dIg93uA/edit#slide=id.p
+![Screenshot (930)](https://user-images.githubusercontent.com/29204677/110240418-d175cb80-7f19-11eb-9289-dfc81449455c.png)
 # Step 1
 Install GitCLI
 Install Jenkins
